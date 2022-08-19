@@ -5,7 +5,7 @@
 - 👯 Participo de projetos de pesquisa em bioinformática na UFABC
 - 🤔 Tenho experiência em análise de dados
 - 💬 Tenho interesse em Desenvolvimento Web, especialmente Front-End
-- 📫 Estudando ferramentas de Back-End
+- 📫 Estudando introdução ao Back-End
 
 ##
 
