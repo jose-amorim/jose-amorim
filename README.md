@@ -1,11 +1,11 @@
 ### Olá 👋 Eu sou o José!
 
-- 🔭 Sou estudante do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC
-- 🌱 Sou estudante do Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul
-- 👯 Participo de projetos de pesquisa em bioinformática na UFABC
-- 🤔 Tenho experiência em análise de dados
-- 💬 Tenho interesse em Desenvolvimento Web, especialmente Front-End
-- 📫 Estudando introdução ao Back-End
+- 🔭 Sou estudante do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC.
+- 🌱 Sou estudante do Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
+- 👯 Participo de projetos de pesquisa em bioinformática na UFABC.
+- 🤔 Tenho experiência em análise de dados.
+- 💬 Tenho interesse em Desenvolvimento Web, especialmente Front-End.
+- 📫 Estudando introdução ao Back-End.
 
 ##
 
@@ -23,6 +23,7 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 </div>
 
 ##
