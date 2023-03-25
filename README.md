@@ -4,7 +4,7 @@
 - 🌱 Sou estudante do Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 - 👯 Participo de projetos de pesquisa em bioinformática na UFABC.
 - 🤔 Tenho experiência em análise de dados.
-- 💬 Tenho interesse em Desenvolvimento Web, especialmente Front-End.
+- 💬 Tenho interesse em Desenvolvimento Web, especialmente Back-End.
 - 📫 Estudando Laravel e Vue.js.
 
 ##
