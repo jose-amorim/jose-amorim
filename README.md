@@ -2,10 +2,10 @@
 
 - 🔭 Sou estudante do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC.
 - 🌱 Sou estudante do Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
-- 👯 Participo de projetos de pesquisa em bioinformática na UFABC.
+- 👯 Participo de projetos de pesquisa em biologia computacionai na UFABC.
 - 🤔 Tenho experiência em análise de dados.
-- 💬 Tenho interesse em Desenvolvimento Web, especialmente Back-End.
-- 📫 Estudando Laravel e Vue.js.
+- 💬 Tenho interesse em Ciência de Dados e Desenvolvimento Web, especialmente Back-End.
+- 📫 Estudando SQL Server.
 
 ##
 
