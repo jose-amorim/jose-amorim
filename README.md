@@ -4,7 +4,7 @@
 - 🌱 Sou estudante do Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 - 👯 Participo de projetos de pesquisa em biologia computacional na UFABC.
 - 🤔 Tenho experiência em análise de dados.
-- 💬 Tenho interesse em Ciência de Dados e Desenvolvimento Web, especialmente Back-End.
+- 💬 Tenho interesse em Ciência de Dados.
 - 📫 Estudando SQL Server.
 
 ##
