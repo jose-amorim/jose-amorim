@@ -1,12 +1,10 @@
 ### Olá 👋 Eu sou o José!
 
 - 🔭 Sou estudante do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC.
-- 🌱 Sou estudante do Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
+- 🌱 Graduado no Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 - 👯 Participo de projetos de pesquisa em biologia computacional na UFABC.
-- 🤔 Tenho experiência em análise de dados.
-- 💬 Tenho interesse em Ciência de Dados.
-- 📫 Estudando SQL Server.
-
+- 🤔 Tenho interesse e experiência em análise de dados.
+- 
 ##
 
 <div align="center">
